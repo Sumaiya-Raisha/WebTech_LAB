@@ -1,0 +1,38 @@
+h1{
+    color: brown;
+}
+p{
+    font-size: 20px;
+}
+#para2{
+    font-weight: bold;
+ }
+ .class-selector{
+    color: brown;
+ }
+ p.class-selector{
+    color: green;
+ }
+ * {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+ }
+ h1, h2,p{
+font-style: italic;
+ }
+
+ .btn1{
+    /* margin-left: 40px;
+    margin-top: 40px; */
+
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+ }
+ .btn2{
+    padding: 10px 40px 10px 40px;
+    position: absolute;
+
+ }

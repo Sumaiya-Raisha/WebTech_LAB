@@ -1,0 +1,17 @@
+h1,h3{
+    text-align: center;
+}
+h1{
+    color: brown;
+}
+h5{
+    text-decoration: underline;
+    color: blue;
+    text-align: center;
+}
+.box2{
+   position: absolute; 
+  z-index: 1;
+  background: rgb(95, 185, 215);
+}
+
